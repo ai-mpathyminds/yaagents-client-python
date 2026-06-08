@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: Apache-2.0
 # Copyright 2026 AimpathyMinds
 
-"""Tests for — YaAgentsClient + resource fluent accessors.
+"""Tests for WI-1yaa.PYC-1 — YaAgentsClient + resource fluent accessors.
 
 AC:
   - Headers injected on every request; correlation-id auto + overridable

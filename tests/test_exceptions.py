@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: Apache-2.0
 # Copyright 2026 AimpathyMinds
 
-"""Tests for — typed exception mapping.
+"""Tests for WI-1yaa.PYC-2 — typed exception mapping.
 
 AC:
   - Each mandatory error media type raises its specific exception with parsed attributes
